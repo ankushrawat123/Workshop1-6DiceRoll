@@ -43,7 +43,7 @@ namespace Workshop1_6DiceRoll
 
 
 
-            //Using switch case method
+            //Using switch case method 
 
             switch(num)
             {
